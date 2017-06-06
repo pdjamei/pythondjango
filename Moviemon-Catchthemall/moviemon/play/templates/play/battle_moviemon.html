@@ -1,0 +1,12 @@
+{% extends "play/base.html" %}
+{% block content %}
+{{ status }}
+<br>
+<img src="{{ moviemon.Poster }}" alt="" style="width: 40%"/>
+<p id="battle_info">
+balls : {{ nbr_balls }}<br>
+force joueur : {{ strength }}<br>
+force moviemon : {{ moviemon.imdbRating }}<br>
+taux de reussite : {{ taux }}<br>
+</p>
+{% endblock %}

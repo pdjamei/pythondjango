@@ -1,0 +1,1279 @@
+(iplay.data_mgmt
+Data_mgmt
+p0
+(dp1
+S'Status'
+p2
+I0
+sS'index'
+p3
+I1
+sS'strength'
+p4
+I0
+sS'movie_index'
+p5
+I-1
+sS'Boli'
+p6
+I00
+sS'nbr_balls'
+p7
+I0
+sS'dic'
+p8
+(dp9
+S'position'
+p10
+(dp11
+S'y'
+p12
+I6
+sS'x'
+p13
+I3
+ssS'Movies'
+p14
+(lp15
+(dp16
+VRatings
+p17
+(lp18
+(dp19
+VSource
+p20
+VInternet Movie Database
+p21
+sVValue
+p22
+V9.0/10
+p23
+sa(dp24
+VSource
+p25
+VRotten Tomatoes
+p26
+sVValue
+p27
+V94%
+p28
+sa(dp29
+VSource
+p30
+VMetacritic
+p31
+sVValue
+p32
+V82/100
+p33
+sasVRated
+p34
+VPG-13
+p35
+sVPlot
+p36
+VWhen the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.
+p37
+sVDVD
+p38
+V09 Dec 2008
+p39
+sVWriter
+p40
+VJonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)
+p41
+sVProduction
+p42
+VWarner Bros. Pictures/Legendary
+p43
+sVActors
+p44
+VChristian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+p45
+sVType
+p46
+Vmovie
+p47
+sVimdbVotes
+p48
+V1,768,567
+p49
+sVWebsite
+p50
+Vhttp://thedarkknight.warnerbros.com/
+p51
+sVPoster
+p52
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg
+p53
+sVTitle
+p54
+VThe Dark Knight
+p55
+sVDirector
+p56
+VChristopher Nolan
+p57
+sVReleased
+p58
+V18 Jul 2008
+p59
+sVAwards
+p60
+VWon 2 Oscars. Another 147 wins & 144 nominations.
+p61
+sVGenre
+p62
+VAction, Crime, Drama
+p63
+sVimdbRating
+p64
+V9.0
+p65
+sVLanguage
+p66
+VEnglish, Mandarin
+p67
+sVCountry
+p68
+VUSA, UK
+p69
+sVBoxOffice
+p70
+V$533,316,061.00
+p71
+sVRuntime
+p72
+V152 min
+p73
+sVimdbID
+p74
+Vtt0468569
+p75
+sVMetascore
+p76
+V82
+p77
+sVResponse
+p78
+VTrue
+p79
+sVYear
+p80
+V2008
+p81
+sa(dp82
+VRatings
+p83
+(lp84
+(dp85
+VSource
+p86
+VInternet Movie Database
+p87
+sVValue
+p88
+V8.8/10
+p89
+sa(dp90
+VSource
+p91
+VRotten Tomatoes
+p92
+sVValue
+p93
+V79%
+p94
+sa(dp95
+VSource
+p96
+VMetacritic
+p97
+sVValue
+p98
+V66/100
+p99
+sasVRated
+p100
+VR
+p101
+sVPlot
+p102
+VAn insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.
+p103
+sVDVD
+p104
+V06 Jun 2000
+p105
+sVWriter
+p106
+VChuck Palahniuk (novel), Jim Uhls (screenplay)
+p107
+sVProduction
+p108
+V20th Century Fox
+p109
+sVActors
+p110
+VEdward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+p111
+sVType
+p112
+Vmovie
+p113
+sVimdbVotes
+p114
+V1,425,849
+p115
+sVWebsite
+p116
+Vhttp://www.foxmovies.com/fightclub/
+p117
+sVPoster
+p118
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg
+p119
+sVTitle
+p120
+VFight Club
+p121
+sVDirector
+p122
+VDavid Fincher
+p123
+sVReleased
+p124
+V15 Oct 1999
+p125
+sVAwards
+p126
+VNominated for 1 Oscar. Another 10 wins & 31 nominations.
+p127
+sVGenre
+p128
+VDrama
+p129
+sVimdbRating
+p130
+V8.8
+p131
+sVLanguage
+p132
+VEnglish
+p133
+sVCountry
+p134
+VUSA, Germany
+p135
+sVBoxOffice
+p136
+VN/A
+p137
+sVRuntime
+p138
+V139 min
+p139
+sVimdbID
+p140
+Vtt0137523
+p141
+sVMetascore
+p142
+V66
+p143
+sVResponse
+p144
+VTrue
+p145
+sVYear
+p146
+V1999
+p147
+sa(dp148
+VRatings
+p149
+(lp150
+(dp151
+VSource
+p152
+VInternet Movie Database
+p153
+sVValue
+p154
+V8.8/10
+p155
+sa(dp156
+VSource
+p157
+VRotten Tomatoes
+p158
+sVValue
+p159
+V86%
+p160
+sa(dp161
+VSource
+p162
+VMetacritic
+p163
+sVValue
+p164
+V74/100
+p165
+sasVRated
+p166
+VPG-13
+p167
+sVPlot
+p168
+VA thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
+p169
+sVDVD
+p170
+V07 Dec 2010
+p171
+sVWriter
+p172
+VChristopher Nolan
+p173
+sVProduction
+p174
+VWarner Bros. Pictures
+p175
+sVActors
+p176
+VLeonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+p177
+sVType
+p178
+Vmovie
+p179
+sVimdbVotes
+p180
+V1,557,867
+p181
+sVWebsite
+p182
+Vhttp://inceptionmovie.warnerbros.com/
+p183
+sVPoster
+p184
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg
+p185
+sVTitle
+p186
+VInception
+p187
+sVDirector
+p188
+VChristopher Nolan
+p189
+sVReleased
+p190
+V16 Jul 2010
+p191
+sVAwards
+p192
+VWon 4 Oscars. Another 145 wins & 197 nominations.
+p193
+sVGenre
+p194
+VAction, Adventure, Sci-Fi
+p195
+sVimdbRating
+p196
+V8.8
+p197
+sVLanguage
+p198
+VEnglish, Japanese, French
+p199
+sVCountry
+p200
+VUSA, UK
+p201
+sVBoxOffice
+p202
+V$292,568,851.00
+p203
+sVRuntime
+p204
+V148 min
+p205
+sVimdbID
+p206
+Vtt1375666
+p207
+sVMetascore
+p208
+V74
+p209
+sVResponse
+p210
+VTrue
+p211
+sVYear
+p212
+V2010
+p213
+sa(dp214
+VRatings
+p215
+(lp216
+(dp217
+VSource
+p218
+VInternet Movie Database
+p219
+sVValue
+p220
+V8.6/10
+p221
+sa(dp222
+VSource
+p223
+VRotten Tomatoes
+p224
+sVValue
+p225
+V83%
+p226
+sa(dp227
+VSource
+p228
+VMetacritic
+p229
+sVValue
+p230
+V62/100
+p231
+sasVRated
+p232
+g101
+sVPlot
+p233
+VA former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.
+p234
+sVDVD
+p235
+V06 Apr 1999
+p236
+sVWriter
+p237
+VDavid McKenna
+p238
+sVProduction
+p239
+VNew Line Cinema
+p240
+sVActors
+p241
+VEdward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien
+p242
+sVType
+p243
+Vmovie
+p244
+sVimdbVotes
+p245
+V828,503
+p246
+sVWebsite
+p247
+Vhttp://www.historyx.com
+p248
+sVPoster
+p249
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BY2E2MWU5ZDktOTQ0OS00NGIzLTg4YTgtYjFhNTRlMjA1NzFjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+p250
+sVTitle
+p251
+VAmerican History X
+p252
+sVDirector
+p253
+VTony Kaye
+p254
+sVReleased
+p255
+V20 Nov 1998
+p256
+sVAwards
+p257
+VNominated for 1 Oscar. Another 4 wins & 13 nominations.
+p258
+sVGenre
+p259
+VCrime, Drama
+p260
+sVimdbRating
+p261
+V8.6
+p262
+sVLanguage
+p263
+VEnglish
+p264
+sVCountry
+p265
+VUSA
+p266
+sVBoxOffice
+p267
+VN/A
+p268
+sVRuntime
+p269
+V119 min
+p270
+sVimdbID
+p271
+Vtt0120586
+p272
+sVMetascore
+p273
+V62
+p274
+sVResponse
+p275
+VTrue
+p276
+sVYear
+p277
+V1998
+p278
+sa(dp279
+VRatings
+p280
+(lp281
+(dp282
+VSource
+p283
+VInternet Movie Database
+p284
+sVValue
+p285
+V8.3/10
+p286
+sa(dp287
+VSource
+p288
+VRotten Tomatoes
+p289
+sVValue
+p290
+V95%
+p291
+sa(dp292
+VSource
+p293
+VMetacritic
+p294
+sVValue
+p295
+V89/100
+p296
+sasVRated
+p297
+VN/A
+p298
+sVPlot
+p299
+VA clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.
+p300
+sVDVD
+p301
+VN/A
+p302
+sVWriter
+p303
+VAkhilesh Jaiswal, Anurag Kashyap, Sachin K. Ladia, Zeishan Quadri
+p304
+sVProduction
+p305
+VStudio 18
+p306
+sVActors
+p307
+VManoj Bajpayee, Richa Chadha, Nawazuddin Siddiqui, Tigmanshu Dhulia
+p308
+sVType
+p309
+Vmovie
+p310
+sVimdbVotes
+p311
+V51,938
+p312
+sVWebsite
+p313
+Vhttp://www.wasseypurworld.com/
+p314
+sVPoster
+p315
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_SX300.jpg
+p316
+sVTitle
+p317
+VGangs of Wasseypur
+p318
+sVDirector
+p319
+VAnurag Kashyap
+p320
+sVReleased
+p321
+V02 Aug 2012
+p322
+sVAwards
+p323
+V10 wins & 32 nominations.
+p324
+sVGenre
+p325
+VAction, Crime, Drama
+p326
+sVimdbRating
+p327
+V8.3
+p328
+sVLanguage
+p329
+VHindi
+p330
+sVCountry
+p331
+VIndia
+p332
+sVBoxOffice
+p333
+VN/A
+p334
+sVRuntime
+p335
+V320 min
+p336
+sVimdbID
+p337
+Vtt1954470
+p338
+sVMetascore
+p339
+V89
+p340
+sVResponse
+p341
+VTrue
+p342
+sVYear
+p343
+V2012
+p344
+sa(dp345
+VRatings
+p346
+(lp347
+(dp348
+VSource
+p349
+VInternet Movie Database
+p350
+sVValue
+p351
+V2.7/10
+p352
+sa(dp353
+VSource
+p354
+VRotten Tomatoes
+p355
+sVValue
+p356
+V14%
+p357
+sa(dp358
+VSource
+p359
+VMetacritic
+p360
+sVValue
+p361
+V45/100
+p362
+sasVRated
+p363
+VPG
+p364
+sVPlot
+p365
+VThe young warrior Son Goku sets out on a quest, racing against time and the vengeful King Piccolo, to collect a set of seven magical orbs that will grant their wielder unlimited power.
+p366
+sVDVD
+p367
+V28 Jul 2009
+p368
+sVWriter
+p369
+VBen Ramsey (screenplay), Akira Toriyama (novel)
+p370
+sVProduction
+p371
+V20th Century Fox
+p372
+sVActors
+p373
+VJustin Chatwin, Yun-Fat Chow, Emmy Rossum, Jamie Chung
+p374
+sVType
+p375
+Vmovie
+p376
+sVimdbVotes
+p377
+V59,031
+p378
+sVWebsite
+p379
+Vhttp://dbthemovie.com
+p380
+sVPoster
+p381
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDM0ODQxMF5BMl5BanBnXkFtZTcwOTMyMzMzMg@@._V1_SX300.jpg
+p382
+sVTitle
+p383
+VDragonball: Evolution
+p384
+sVDirector
+p385
+VJames Wong
+p386
+sVReleased
+p387
+V10 Apr 2009
+p388
+sVAwards
+p389
+V1 nomination.
+p390
+sVGenre
+p391
+VAction, Adventure, Fantasy
+p392
+sVimdbRating
+p393
+V2.7
+p394
+sVLanguage
+p395
+VEnglish, Japanese, Hindi
+p396
+sVCountry
+p397
+VUSA, Hong Kong, UK
+p398
+sVBoxOffice
+p399
+V$9,353,573.00
+p400
+sVRuntime
+p401
+V85 min
+p402
+sVimdbID
+p403
+Vtt1098327
+p404
+sVMetascore
+p405
+V45
+p406
+sVResponse
+p407
+VTrue
+p408
+sVYear
+p409
+V2009
+p410
+sa(dp411
+VRatings
+p412
+(lp413
+(dp414
+VSource
+p415
+VInternet Movie Database
+p416
+sVValue
+p417
+V1.9/10
+p418
+sasVRated
+p419
+VNOT RATED
+p420
+sVPlot
+p421
+VEvil assassins want to kill Daniel Kublbock, the third runner up for the German Idols.
+p422
+sVDVD
+p423
+VN/A
+p424
+sVWriter
+p425
+VUlli Lommel (screenplay)
+p426
+sVProduction
+p427
+VN/A
+p428
+sVActors
+p429
+VDaniel Küblböck, Ulli Lommel, Rudolf Waldemar Brem, Katja Rupé
+p430
+sVType
+p431
+Vmovie
+p432
+sVimdbVotes
+p433
+V13,060
+p434
+sVWebsite
+p435
+VN/A
+p436
+sVPoster
+p437
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BMTI5OTM2MzAxM15BMl5BanBnXkFtZTcwNDA4MDMzMQ@@._V1_SX300.jpg
+p438
+sVTitle
+p439
+VDaniel der Zauberer
+p440
+sVDirector
+p441
+VUlli Lommel
+p442
+sVReleased
+p443
+V12 Aug 2004
+p444
+sVAwards
+p445
+VN/A
+p446
+sVGenre
+p447
+VComedy, Crime, Fantasy
+p448
+sVimdbRating
+p449
+V1.9
+p450
+sVLanguage
+p451
+VGerman
+p452
+sVCountry
+p453
+VGermany
+p454
+sVBoxOffice
+p455
+VN/A
+p456
+sVRuntime
+p457
+V81 min
+p458
+sVimdbID
+p459
+Vtt0421051
+p460
+sVMetascore
+p461
+VN/A
+p462
+sVResponse
+p463
+VTrue
+p464
+sVYear
+p465
+V2004
+p466
+sa(dp467
+VRatings
+p468
+(lp469
+(dp470
+VSource
+p471
+VInternet Movie Database
+p472
+sVValue
+p473
+V5.5/10
+p474
+sa(dp475
+VSource
+p476
+VRotten Tomatoes
+p477
+sVValue
+p478
+V16%
+p479
+sasVRated
+p480
+g101
+sVPlot
+p481
+VAfter his mistress runs over a young teen, a Wall Street hotshot sees his life unravel in the spotlight, and attracting the interest of a down and out reporter.
+p482
+sVDVD
+p483
+V06 Nov 2001
+p484
+sVWriter
+p485
+VMichael Cristofer (screenplay), Tom Wolfe (novel)
+p486
+sVProduction
+p487
+VWarner Home Video
+p488
+sVActors
+p489
+VTom Hanks, Bruce Willis, Melanie Griffith, Kim Cattrall
+p490
+sVType
+p491
+Vmovie
+p492
+sVimdbVotes
+p493
+V18,282
+p494
+sVWebsite
+p495
+VN/A
+p496
+sVPoster
+p497
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MzEzMjc0Nl5BMl5BanBnXkFtZTgwNzU1NTk4NjE@._V1_SX300.jpg
+p498
+sVTitle
+p499
+VThe Bonfire of the Vanities
+p500
+sVDirector
+p501
+VBrian De Palma
+p502
+sVReleased
+p503
+V21 Dec 1990
+p504
+sVAwards
+p505
+V1 win & 5 nominations.
+p506
+sVGenre
+p507
+VComedy, Drama, Romance
+p508
+sVimdbRating
+p509
+V5.5
+p510
+sVLanguage
+p511
+VEnglish
+p512
+sVCountry
+p513
+VUSA
+p514
+sVBoxOffice
+p515
+VN/A
+p516
+sVRuntime
+p517
+V125 min
+p518
+sVimdbID
+p519
+Vtt0099165
+p520
+sVMetascore
+p521
+VN/A
+p522
+sVResponse
+p523
+VTrue
+p524
+sVYear
+p525
+V1990
+p526
+sa(dp527
+VRatings
+p528
+(lp529
+(dp530
+VSource
+p531
+VInternet Movie Database
+p532
+sVValue
+p533
+V2.2/10
+p534
+sa(dp535
+VSource
+p536
+VRotten Tomatoes
+p537
+sVValue
+p538
+V6%
+p539
+sa(dp540
+VSource
+p541
+VMetacritic
+p542
+sVValue
+p543
+V20/100
+p544
+sasVRated
+p545
+VPG
+p546
+sVPlot
+p547
+VTim Avery, an aspiring cartoonist, finds himself in a predicament when his dog stumbles upon the mask of Loki. Then after conceiving an infant son "born of the mask", he discovers just how looney child raising can be.
+p548
+sVDVD
+p549
+V17 May 2005
+p550
+sVWriter
+p551
+VLance Khazei
+p552
+sVProduction
+p553
+VNew Line Cinema
+p554
+sVActors
+p555
+VJamie Kennedy, Alan Cumming, Liam Falconer, Ryan Falconer
+p556
+sVType
+p557
+Vmovie
+p558
+sVimdbVotes
+p559
+V42,786
+p560
+sVWebsite
+p561
+Vhttp://www.sonofthemask.com/
+p562
+sVPoster
+p563
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BMTI3Mjg5NjI3OV5BMl5BanBnXkFtZTcwNDkwODcyMQ@@._V1_SX300.jpg
+p564
+sVTitle
+p565
+VSon of the Mask
+p566
+sVDirector
+p567
+VLawrence Guterman
+p568
+sVReleased
+p569
+V18 Feb 2005
+p570
+sVAwards
+p571
+V7 wins & 12 nominations.
+p572
+sVGenre
+p573
+VComedy, Family, Fantasy
+p574
+sVimdbRating
+p575
+V2.2
+p576
+sVLanguage
+p577
+VEnglish
+p578
+sVCountry
+p579
+VUSA, Germany
+p580
+sVBoxOffice
+p581
+V$16,967,576.00
+p582
+sVRuntime
+p583
+V94 min
+p584
+sVimdbID
+p585
+Vtt0362165
+p586
+sVMetascore
+p587
+V20
+p588
+sVResponse
+p589
+VTrue
+p590
+sVYear
+p591
+V2005
+p592
+sa(dp593
+VRatings
+p594
+(lp595
+(dp596
+VSource
+p597
+VInternet Movie Database
+p598
+sVValue
+p599
+V1.6/10
+p600
+sasVRated
+p601
+VNOT RATED
+p602
+sVPlot
+p603
+VA look at the 17-25 December 2013 corruption scandal in Turkey, from the viewpoint of the Erdogan government.
+p604
+sVDVD
+p605
+VN/A
+p606
+sVWriter
+p607
+VN/A
+p608
+sVProduction
+p609
+VN/A
+p610
+sVActors
+p611
+VCem Kurtoglu, Hakan Ural, Hazim Körmükçü, Tolga Karel
+p612
+sVType
+p613
+Vmovie
+p614
+sVimdbVotes
+p615
+V23,704
+p616
+sVWebsite
+p617
+VN/A
+p618
+sVPoster
+p619
+Vhttps://images-na.ssl-images-amazon.com/images/M/MV5BMDhkOTQzN2UtZDJhMi00ZTkzLWJmYjctNmE0MjdmZDlmYjJlXkEyXkFqcGdeQXVyNTQzNzQ5OTE@._V1_SX300.jpg
+p620
+sVTitle
+p621
+VCode Name: K.O.Z.
+p622
+sVDirector
+p623
+VCelal Çimen
+p624
+sVReleased
+p625
+V13 Feb 2015
+p626
+sVAwards
+p627
+VN/A
+p628
+sVGenre
+p629
+VCrime, Mystery
+p630
+sVimdbRating
+p631
+V1.6
+p632
+sVLanguage
+p633
+VTurkish
+p634
+sVCountry
+p635
+VTurkey
+p636
+sVBoxOffice
+p637
+VN/A
+p638
+sVRuntime
+p639
+V114 min
+p640
+sVimdbID
+p641
+Vtt4458206
+p642
+sVMetascore
+p643
+VN/A
+p644
+sVResponse
+p645
+VTrue
+p646
+sVYear
+p647
+V2015
+p648
+sasS'nbr_balls'
+p649
+I0
+sS'movie_index'
+p650
+I-1
+sS'Moviedex'
+p651
+(lp652
+ssS'position'
+p653
+g11
+sS'movielist'
+p654
+g15
+sS'moviedex'
+p655
+g652
+sb.

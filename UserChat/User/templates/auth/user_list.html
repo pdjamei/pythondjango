@@ -1,0 +1,7 @@
+<ul>
+{% for mon in object_list %}
+<li><a href="/user/{{mon.id}}">{{mon.username}}</a></li>
+{% empty %}
+<li>No User</li>
+{% endfor %}
+</ul>

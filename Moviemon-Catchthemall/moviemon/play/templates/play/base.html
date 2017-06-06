@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>MovieMon</title>
+        {% load static %}
+        <link rel="stylesheet" type="text/css" href="{% static "style.css" %}" />
+    </head>
+    <body>
+        <div class="image">
+            {% load static %}
+            <img src="{% static "Game_Boy_Advance.png" %}" alt="BeMyGameBoy" style="width: 100%; transform: rotate(-0.5deg);"/>
+            <div id="controls">
+                {% include "play/controls.html" %}
+            </div>
+            <div class="in_game">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
+    </body>
+</html>

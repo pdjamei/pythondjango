@@ -1,0 +1,115 @@
+#button_a {
+  position: absolute; 
+  top: 39%;
+  right: 11%;
+}
+
+#button_b {
+  position: absolute; 
+  top: 44%;
+  right: 19.7%;
+}
+
+#button_up {
+  position: absolute; 
+  top: 33%;
+  left: 14%;
+}
+
+#button_down {
+  position: absolute; 
+  top: 47%;
+  left: 13.5%;
+}
+
+#button_left {
+  position: absolute; 
+  top: 40%;
+  left: 9.5%;
+}
+
+#button_right {
+  position: absolute; 
+  top: 40%;
+  left: 17.5%;
+}
+
+#button_start {
+  position: absolute; 
+  top: 62%;
+  left: 19.5%;
+}
+
+#button_select {
+  position: absolute;
+  top: 71%;
+  left: 19.3%;
+}
+
+#controls li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 1em;
+}
+
+#trainer {
+  width: 100%;
+}
+
+#battle_info {
+  position: absolute;
+  top: 10%;
+  right: 0;
+  text-align: right;
+}
+
+.trainer_info {
+  position: absolute;
+  color: white;
+}
+
+.movie_info {
+  position: absolute;
+  right: 0;
+  top: 0;
+  text-align: right;
+}
+.image {
+  position: relative;
+  width: 100%;
+}
+
+.moviedex {
+  border: 3px solid blue;
+}
+
+.in_game {
+  background-color: white;
+  position: absolute; 
+  top:22%; 
+  left: 29.8%; 
+  width: 40.3%;
+  height: 45%;
+}
+
+table {
+  background-image: url('./pokemon_background.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border-collapse: collapse;
+  table-layout: fixed;
+  height: 100%;
+}
+
+td {
+  vertical-align: bottom;
+  white-space: nowrap;
+  width: calc(100%/10);
+  padding: 0;
+}
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(./dafont.tff);
+}

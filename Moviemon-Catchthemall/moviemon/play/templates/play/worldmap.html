@@ -1,0 +1,26 @@
+{% extends "play/base.html" %}
+{% block content %}
+<table cellspacing="0" cellpadding="0">
+	{% for y in map.H %}
+	<tr>
+		{% for x in map.W %}
+		<td>
+		{% if position.y == y and position.x == x %}
+		<img src="https://media.giphy.com/media/S0uxXgzbgSQTK/giphy.gif" alt="trainer" id="trainer"/>
+		{% endif %}
+		</td>
+		{% endfor %}
+	</tr>
+	{% endfor %}
+</table>
+{% if controls.a.value %}
+<div class="trainer_info" style="top: 0;">
+	<a>movie mon can be catch !! Press A to catch it</a>
+</div>
+{% endif %}
+<div class="trainer_info" style="top: 0; right: 0; width: 12%">
+	{% load static %}
+	{{ balls }}
+	<img src="{% static "pokeball.png" %}" alt="pokeball" style="width: 35%;"/>
+</div>
+{% endblock %}

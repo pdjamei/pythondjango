@@ -1,0 +1,11 @@
+{% extends "play/base.html" %}
+{% block content %}
+<h1 style="font-family: myFirstFont; text-align: center; font-size: 500%; margin: 2%">MOVIEMON</h1>
+<br>
+{% load static %}
+<img src="{% static "pokeball.png" %}" alt="fat" style="width: 20%; position: absolute; top: 35%; left: 40%;"/>
+<p style="font-family: myFirstFont; text-align: center; position: absolute; top: 65%; left: 39%;">
+A - New Game
+<br>
+B - Load</p>
+{% endblock %}

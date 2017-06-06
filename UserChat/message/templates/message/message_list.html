@@ -1,0 +1,28 @@
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
+<ul id='message_list'>
+{% for mon in object_list %}
+<li>{{mon.date}} : {{mon.content}}</li>
+{% empty %}
+<li>No message</li>
+{% endfor %}
+</ul>
+<input id="input"></input>
+<button id="button">Send message</button>
+<script type="text/javascript">
+	socket = new WebSocket("ws://" + window.location.host);
+
+	socket.onopen=function(event){
+	}
+
+	socket.onmessage = function(event){
+		$('#message_list').append("<li>" + event.data + "</li>")
+	}
+
+	socket.onclose = function(event) {
+		alert('Connection closed')
+	}
+
+	$('#button').click(function(){
+		socket.send($('#input').val());
+	})
+</script>

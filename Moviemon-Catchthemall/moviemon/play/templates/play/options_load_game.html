@@ -1,0 +1,26 @@
+{% extends "play/base.html" %}
+
+{% block content %}
+	<div style="font-family: myFirstFont; text-align: center;">
+		<p style="padding-top:30px;">
+		<ul style="list-style-type: none;">
+			{% for s in saves %}
+			<li>
+			{% if s %}
+				{{s.0}}
+			{% else %}
+				FREE
+			{% endif%}
+			{% if data.index == forloop.counter %}
+			{% load static %}
+            <img src="{% static "pokeball.png" %}" alt="pokeball" style="width: 5%;"/>
+			{% endif %}
+			</li>
+			{% endfor %}
+		</ul>
+	</p>
+	</div>
+	<br>
+	<p style="font-family: myFirstFont; text-align: center;">{% if start %}A - Start
+		{% else %}A - Load{%endif%} / B - Cancel</p>
+{% endblock %}

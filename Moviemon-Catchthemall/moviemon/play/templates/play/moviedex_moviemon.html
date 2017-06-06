@@ -1,0 +1,14 @@
+{% extends "play/base.html" %}
+{% block content %}
+
+<img src="{{movie.Poster}}" style="width: 30%">
+<div class="movie_info">
+	<h1>{{movie.Title}}</h1>
+	{{movie.Year}}
+	<h2>Director : {{movie.Director}}</h2>
+	<h4>Imdb rating : {{movie.imdbRating}}</h4>
+</div>
+<br>
+Actors : {{movie.Actors}}<br><br>
+{{movie.Plot}}
+{% endblock %}
